@@ -7,6 +7,8 @@ import java.util.List;
 
 public interface JobDao {
 
+    Job getJobById(int id);
+
     List<Job> getAllJobs();
 
     Job getJobByName(String name) throws ObjectNotFoundException;

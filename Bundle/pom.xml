@@ -6,7 +6,11 @@
 
   <groupId>hu.iit.uni.miskolc.webapp.dev</groupId>
   <artifactId>Bundle</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>Core</module>
+  </modules>
 
   <name>Bundle</name>
   <!-- FIXME change it to the project's website -->

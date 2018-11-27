@@ -11,6 +11,7 @@
   <modules>
     <module>Core</module>
     <module>Service</module>
+    <module>Dao</module>
   </modules>
 
   <name>Bundle</name>
